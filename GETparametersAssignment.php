@@ -30,7 +30,7 @@ if($age>= 18){
 <!DOCTYPE html>
 <html>
 <body>
-	<form  method="GET" action="display.php">
+	<form  method="GET" action="GETparametersAssignment.php">
 		<div>
 			<label>First name: </label>
 			<input type = "text" name= "fname"/><br>
