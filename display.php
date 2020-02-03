@@ -17,7 +17,7 @@ if(isset($_GET['lname'])){
 if(isset($_GET['myage'])){
 	echo nl2br ("\nI am ");
 	echo $_GET['myage'];
-	echo (" years old.\n");
+	echo (" years old and ");
 }
 
 if($age>= 18){
